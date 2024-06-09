@@ -41,4 +41,5 @@ Navigate to the frontend directory and run the command:
 
 - npm start
 
-### Author - https://www.abhishekfolio.online/
+### Author @ Abhishek Srivastava
+- https://www.abhishekfolio.online/
